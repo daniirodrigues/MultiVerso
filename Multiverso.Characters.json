@@ -1,0 +1,1622 @@
+[
+  {
+    "_id": 1,
+    "name": "Tony Stark",
+    "alias": [
+      "Ironman",
+      "Iron Man"
+    ],
+    "first_appearance": "Tales of Suspense #39",
+    "powerLevel": 95,
+    "debut_year": 1963,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000002"
+      },
+      {
+        "$oid": "6b1300000000000000000001"
+      },
+      {
+        "$oid": "6b1300000000000000000060"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000021"
+      },
+      {
+        "$oid": "6b1400000000000000000022"
+      },
+      {
+        "$oid": "6b1400000000000000000006"
+      },
+      {
+        "$oid": "6b1400000000000000000007"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "name": "Darth Vader",
+    "alias": [],
+    "first_appearance": "Star wars episode iv",
+    "powerLevel": 88,
+    "debut_year": 1977,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c1"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000053"
+      },
+      {
+        "$oid": "6b1300000000000000000002"
+      },
+      {
+        "$oid": "6b1300000000000000000030"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000001"
+      },
+      {
+        "$oid": "6b1400000000000000000017"
+      },
+      {
+        "$oid": "6b1400000000000000000033"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "name": "Harry Potter",
+    "alias": [],
+    "first_appearance": "Harry Potter and the Philosopher's Stone (1997)",
+    "powerLevel": 75,
+    "debut_year": 1997,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a4"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000099"
+      },
+      {
+        "$oid": "6b1300000000000000000016"
+      },
+      {
+        "$oid": "6b1300000000000000000068"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000040"
+      },
+      {
+        "$oid": "6b1400000000000000000012"
+      },
+      {
+        "$oid": "6b1400000000000000000031"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "name": "Peter Parker",
+    "alias": [
+      "Spider-man",
+      "Spiderman"
+    ],
+    "first_appearance": "Amazing Fantasy #15 (1962)",
+    "powerLevel": 89,
+    "debut_year": 1962,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000101"
+      },
+      {
+        "$oid": "6b1300000000000000000018"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 5,
+    "name": "Master Chief",
+    "alias": [],
+    "first_appearance": "Halo: Combat Evolved (2001)",
+    "powerLevel": 100,
+    "debut_year": 2001,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a5"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000059"
+      },
+      {
+        "$oid": "6b1300000000000000000003"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000018"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "name": "Gandalf The Grey",
+    "alias": [],
+    "first_appearance": "The Hobbit (1937)",
+    "powerLevel": 93,
+    "debut_year": 1954,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a3"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cc"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000088"
+      },
+      {
+        "$oid": "6b1300000000000000000093"
+      },
+      {
+        "$oid": "6b1300000000000000000040"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000047"
+      },
+      {
+        "$oid": "6b1400000000000000000056"
+      },
+      {
+        "$oid": "6b1400000000000000000054"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "name": "Batman",
+    "alias": [],
+    "first_appearance": "Detective Comics #27 (1939)",
+    "powerLevel": 85,
+    "debut_year": 1939,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a1"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000006"
+      },
+      {
+        "$oid": "6b1300000000000000000005"
+      },
+      {
+        "$oid": "6b1300000000000000000060"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000046"
+      },
+      {
+        "$oid": "6b1400000000000000000008"
+      },
+      {
+        "$oid": "6b1400000000000000000045"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "name": "Lara Croft",
+    "alias": [],
+    "first_appearance": "Tomb Raider (1996)",
+    "powerLevel": 72,
+    "debut_year": 1996,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a6"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000069"
+      },
+      {
+        "$oid": "6b1300000000000000000035"
+      },
+      {
+        "$oid": "6b1300000000000000000103"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000058"
+      },
+      {
+        "$oid": "6b1400000000000000000057"
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "name": "Geralt Of Rivia",
+    "alias": [],
+    "first_appearance": "The Witcher (1993)",
+    "powerLevel": 90,
+    "debut_year": 2007,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a7"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c9"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000083"
+      },
+      {
+        "$oid": "6b1300000000000000000089"
+      },
+      {
+        "$oid": "6b1300000000000000000072"
+      },
+      {
+        "$oid": "6b1300000000000000000082"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 10,
+    "name": "Son Goku",
+    "alias": [],
+    "first_appearance": "Dragon Ball (manga) 1984",
+    "powerLevel": 97,
+    "debut_year": 1984,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a8"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cb"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000073"
+      },
+      {
+        "$oid": "6b1300000000000000000063"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000016"
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "name": "Vegeta",
+    "alias": [],
+    "first_appearance": "Dragon Ball Chapter 204 (1988)",
+    "powerLevel": 96,
+    "debut_year": 1984,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a8"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cb"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000002"
+      },
+      {
+        "$oid": "6b1300000000000000000079"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000032"
+      },
+      {
+        "$oid": "6b1400000000000000000016"
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "name": "Link",
+    "alias": [],
+    "first_appearance": "The Legend of Zelda (1986)",
+    "powerLevel": 80,
+    "debut_year": 1986,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a9"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cd"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000057"
+      },
+      {
+        "$oid": "6b1300000000000000000081"
+      },
+      {
+        "$oid": "6b1300000000000000000064"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 13,
+    "name": "Princess Zelda",
+    "alias": [],
+    "first_appearance": "The Legend of Zelda (1986)",
+    "powerLevel": 78,
+    "debut_year": 1986,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a9"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cd"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000102"
+      },
+      {
+        "$oid": "6b1300000000000000000054"
+      },
+      {
+        "$oid": "6b1300000000000000000011"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 14,
+    "name": "Kratos",
+    "alias": [],
+    "first_appearance": "God of War (2005)",
+    "powerLevel": 98,
+    "debut_year": 2005,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6aa"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6ce"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000008"
+      },
+      {
+        "$oid": "6b1300000000000000000052"
+      },
+      {
+        "$oid": "6b1300000000000000000074"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 15,
+    "name": "Mario",
+    "alias": [],
+    "first_appearance": "Donkey Kong (1981)",
+    "powerLevel": 70,
+    "debut_year": 1985,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ab"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c4"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000037"
+      },
+      {
+        "$oid": "6b1300000000000000000061"
+      },
+      {
+        "$oid": "6b1300000000000000000046"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000043"
+      },
+      {
+        "$oid": "6b1400000000000000000044"
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "name": "Luigi",
+    "alias": [],
+    "first_appearance": "Mario Bros (1983)",
+    "powerLevel": 65,
+    "debut_year": 1985,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ab"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000096"
+      },
+      {
+        "$oid": "6b1300000000000000000019"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000044"
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "name": "Sonic The Hedgehog",
+    "alias": [],
+    "first_appearance": "Sonic the Hedgehog (1991)",
+    "powerLevel": 82,
+    "debut_year": 1991,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ac"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d6"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000085"
+      },
+      {
+        "$oid": "6b1300000000000000000077"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000038"
+      },
+      {
+        "$oid": "6b1400000000000000000039"
+      }
+    ]
+  },
+  {
+    "_id": 18,
+    "name": "Thanos",
+    "alias": [],
+    "first_appearance": "Invincible Iron Man #55 (1973)",
+    "powerLevel": 99,
+    "debut_year": 1973,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d2"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000044"
+      },
+      {
+        "$oid": "6b1300000000000000000002"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000020"
+      },
+      {
+        "$oid": "6b1400000000000000000007"
+      }
+    ]
+  },
+  {
+    "_id": 19,
+    "name": "Grogu",
+    "alias": [],
+    "first_appearance": "The Mandalorian S01E01 (2019)",
+    "powerLevel": 50,
+    "debut_year": 2019,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d4"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000030"
+      },
+      {
+        "$oid": "6b1300000000000000000020"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000052"
+      }
+    ]
+  },
+  {
+    "_id": 20,
+    "name": "Leia Organa",
+    "alias": [],
+    "first_appearance": "Star Wars Episode IV (1977)",
+    "powerLevel": 68,
+    "debut_year": 1977,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000009"
+      },
+      {
+        "$oid": "6b1300000000000000000051"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000001"
+      },
+      {
+        "$oid": "6b1400000000000000000033"
+      }
+    ]
+  },
+  {
+    "_id": 21,
+    "name": "Naruto Uzumaki",
+    "alias": [],
+    "first_appearance": "Naruto Chapter 1 (1999)",
+    "powerLevel": 92,
+    "debut_year": 1999,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b6"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000014"
+      },
+      {
+        "$oid": "6b1300000000000000000048"
+      },
+      {
+        "$oid": "6b1300000000000000000075"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000051"
+      }
+    ]
+  },
+  {
+    "_id": 22,
+    "name": "Sasuke Uchiha",
+    "alias": [],
+    "first_appearance": "Naruto Chapter 3 (1999)",
+    "powerLevel": 91,
+    "debut_year": 1999,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b6"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000080"
+      },
+      {
+        "$oid": "6b1300000000000000000093"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000011"
+      }
+    ]
+  },
+  {
+    "_id": 23,
+    "name": "Luffy",
+    "alias": [],
+    "first_appearance": "One Piece Chapter 1 (1997)",
+    "powerLevel": 94,
+    "debut_year": 1997,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b7"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000090"
+      },
+      {
+        "$oid": "6b1300000000000000000022"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000029"
+      }
+    ]
+  },
+  {
+    "_id": 24,
+    "name": "Optimus Prime",
+    "alias": [],
+    "first_appearance": "The Transformers #1 (1984)",
+    "powerLevel": 88,
+    "debut_year": 1984,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ad"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d8"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000026"
+      },
+      {
+        "$oid": "6b1300000000000000000009"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000059"
+      },
+      {
+        "$oid": "6b1400000000000000000035"
+      }
+    ]
+  },
+  {
+    "_id": 25,
+    "name": "Megatron",
+    "alias": [],
+    "first_appearance": "The Transformers #1 (1984)",
+    "powerLevel": 86,
+    "debut_year": 1984,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ad"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d9"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000032"
+      },
+      {
+        "$oid": "6b1300000000000000000027"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000059"
+      },
+      {
+        "$oid": "6b1400000000000000000013"
+      }
+    ]
+  },
+  {
+    "_id": 26,
+    "name": "Rick Sanchez",
+    "alias": [],
+    "first_appearance": "Rick and Morty S01E01 (2013)",
+    "powerLevel": 99,
+    "debut_year": 2013,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ae"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000071"
+      },
+      {
+        "$oid": "6b1300000000000000000078"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 27,
+    "name": "Morty Smith",
+    "alias": [],
+    "first_appearance": "Rick and Morty S01E01 (2013)",
+    "powerLevel": 55,
+    "debut_year": 2013,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ae"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000062"
+      },
+      {
+        "$oid": "6b1300000000000000000034"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000034"
+      }
+    ]
+  },
+  {
+    "_id": 28,
+    "name": "Eleven",
+    "alias": [],
+    "first_appearance": "Stranger Things S01E01 (2016)",
+    "powerLevel": 83,
+    "debut_year": 2016,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6af"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000094"
+      },
+      {
+        "$oid": "6b1300000000000000000025"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000042"
+      }
+    ]
+  },
+  {
+    "_id": 29,
+    "name": "Homer Simpson",
+    "alias": [],
+    "first_appearance": "The Simpsons S01E01 (1989)",
+    "powerLevel": 40,
+    "debut_year": 1989,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c5"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000024"
+      },
+      {
+        "$oid": "6b1300000000000000000007"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000055"
+      }
+    ]
+  },
+  {
+    "_id": 30,
+    "name": "Spider-Gwen",
+    "alias": [],
+    "first_appearance": "Edge of Spider-Verse #2 (2014)",
+    "powerLevel": 84,
+    "debut_year": 2014,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000087"
+      },
+      {
+        "$oid": "6b1300000000000000000039"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000041"
+      }
+    ]
+  },
+  {
+    "_id": 31,
+    "name": "Pikachu",
+    "alias": [],
+    "first_appearance": "Pokémon Red/Blue (1996)",
+    "powerLevel": 75,
+    "debut_year": 1996,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b8"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d7"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000095"
+      },
+      {
+        "$oid": "6b1300000000000000000020"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000015"
+      }
+    ]
+  },
+  {
+    "_id": 32,
+    "name": "Cloud Strife",
+    "alias": [],
+    "first_appearance": "Final Fantasy VII (1997)",
+    "powerLevel": 87,
+    "debut_year": 1997,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b1"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000012"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000002"
+      }
+    ]
+  },
+  {
+    "_id": 33,
+    "name": "Sephiroth",
+    "alias": [],
+    "first_appearance": "Final Fantasy VII (1997)",
+    "powerLevel": 92,
+    "debut_year": 1997,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b1"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000056"
+      },
+      {
+        "$oid": "6b1300000000000000000066"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000002"
+      }
+    ]
+  },
+  {
+    "_id": 34,
+    "name": "Aang",
+    "alias": [],
+    "first_appearance": "Avatar: The Last Airbender S01E01 (2005)",
+    "powerLevel": 90,
+    "debut_year": 2005,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c3"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000088"
+      },
+      {
+        "$oid": "6b1300000000000000000033"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000049"
+      }
+    ]
+  },
+  {
+    "_id": 35,
+    "name": "Katara",
+    "alias": [],
+    "first_appearance": "Avatar: The Last Airbender S01E01 (2005)",
+    "powerLevel": 85,
+    "debut_year": 2005,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000100"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000003"
+      }
+    ]
+  },
+  {
+    "_id": 36,
+    "name": "Sokka",
+    "alias": [],
+    "first_appearance": "Avatar: The Last Airbender S01E01 (2005)",
+    "powerLevel": 70,
+    "debut_year": 2005,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000010"
+      },
+      {
+        "$oid": "6b1300000000000000000078"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 37,
+    "name": "Black Panther",
+    "alias": [],
+    "first_appearance": "Fantastic Four #52 (1966)",
+    "powerLevel": 86,
+    "debut_year": 1966,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000097"
+      },
+      {
+        "$oid": "6b1300000000000000000015"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000009"
+      },
+      {
+        "$oid": "6b1400000000000000000020"
+      }
+    ]
+  },
+  {
+    "_id": 38,
+    "name": "Wonder Woman",
+    "alias": [],
+    "first_appearance": "All Star Comics #8 (1941)",
+    "powerLevel": 95,
+    "debut_year": 1941,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a1"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000050"
+      },
+      {
+        "$oid": "6b1300000000000000000093"
+      },
+      {
+        "$oid": "6b1300000000000000000081"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000061"
+      },
+      {
+        "$oid": "6b1400000000000000000025"
+      }
+    ]
+  },
+  {
+    "_id": 39,
+    "name": "The Flash",
+    "alias": [],
+    "first_appearance": "Flash Comics #1 (1940)",
+    "powerLevel": 94,
+    "debut_year": 1940,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a1"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000086"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000025"
+      },
+      {
+        "$oid": "6b1400000000000000000048"
+      }
+    ]
+  },
+  {
+    "_id": 40,
+    "name": "Shrek",
+    "alias": [],
+    "first_appearance": "Shrek (2001)",
+    "powerLevel": 60,
+    "debut_year": 2001,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b4"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6dc"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000092"
+      },
+      {
+        "$oid": "6b1300000000000000000067"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000036"
+      },
+      {
+        "$oid": "6b1400000000000000000037"
+      }
+    ]
+  },
+  {
+    "_id": 41,
+    "name": "Donkey",
+    "alias": [],
+    "first_appearance": "Shrek (2001)",
+    "powerLevel": 45,
+    "debut_year": 2001,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b4"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6dd"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000041"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000036"
+      },
+      {
+        "$oid": "6b1400000000000000000037"
+      }
+    ]
+  },
+  {
+    "_id": 42,
+    "name": "Neo",
+    "alias": [],
+    "first_appearance": "The Matrix (1999)",
+    "powerLevel": 100,
+    "debut_year": 1999,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b5"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c2"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000049"
+      },
+      {
+        "$oid": "6b1300000000000000000017"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000053"
+      },
+      {
+        "$oid": "6b1400000000000000000026"
+      },
+      {
+        "$oid": "6b1400000000000000000027"
+      }
+    ]
+  },
+  {
+    "_id": 43,
+    "name": "Trinity",
+    "alias": [],
+    "first_appearance": "The Matrix (1999)",
+    "powerLevel": 89,
+    "debut_year": 1999,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b5"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000036"
+      },
+      {
+        "$oid": "6b1300000000000000000055"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000053"
+      },
+      {
+        "$oid": "6b1400000000000000000026"
+      }
+    ]
+  },
+  {
+    "_id": 44,
+    "name": "Agent Smith",
+    "alias": [],
+    "first_appearance": "The Matrix (1999)",
+    "powerLevel": 90,
+    "debut_year": 1999,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b5"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6da"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000098"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000053"
+      }
+    ]
+  },
+  {
+    "_id": 45,
+    "name": "Hermione Granger",
+    "alias": [],
+    "first_appearance": "Harry Potter and the Philosopher's Stone (1997)",
+    "powerLevel": 90,
+    "debut_year": 1997,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a4"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000099"
+      },
+      {
+        "$oid": "6b1300000000000000000045"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000040"
+      },
+      {
+        "$oid": "6b1400000000000000000014"
+      }
+    ]
+  },
+  {
+    "_id": 46,
+    "name": "Sauron",
+    "alias": [],
+    "first_appearance": "The Lord of the Rings (1954)",
+    "powerLevel": 96,
+    "debut_year": 1954,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a3"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cc"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000065"
+      },
+      {
+        "$oid": "6b1300000000000000000021"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000047"
+      }
+    ]
+  },
+  {
+    "_id": 47,
+    "name": "Riri Williams",
+    "alias": [],
+    "first_appearance": "Invincible Iron Man Vol.3 #7 (2016)",
+    "powerLevel": 88,
+    "debut_year": 2022,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000002"
+      },
+      {
+        "$oid": "6b1300000000000000000001"
+      },
+      {
+        "$oid": "6b1300000000000000000060"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000010"
+      }
+    ]
+  },
+  {
+    "_id": 48,
+    "name": "Ash Ketchum",
+    "alias": [],
+    "first_appearance": "Pokémon Red/Blue (1996)",
+    "powerLevel": 60,
+    "debut_year": 1997,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b8"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000070"
+      },
+      {
+        "$oid": "6b1300000000000000000004"
+      },
+      {
+        "$oid": "6b1300000000000000000037"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000028"
+      },
+      {
+        "$oid": "6b1400000000000000000019"
+      }
+    ]
+  },
+  {
+    "_id": 49,
+    "name": "Ezio Auditore",
+    "alias": [],
+    "first_appearance": "Assassin's Creed II (2009)",
+    "powerLevel": 78,
+    "debut_year": 2009,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ba"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000038"
+      },
+      {
+        "$oid": "6b1300000000000000000093"
+      },
+      {
+        "$oid": "6b1300000000000000000013"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000004"
+      }
+    ]
+  },
+  {
+    "_id": 50,
+    "name": "Aloy",
+    "alias": [],
+    "first_appearance": "Horizon Zero Dawn (2017)",
+    "powerLevel": 76,
+    "debut_year": 2017,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6bb"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000011"
+      },
+      {
+        "$oid": "6b1300000000000000000084"
+      },
+      {
+        "$oid": "6b1300000000000000000029"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 51,
+    "name": "Ellie",
+    "alias": [],
+    "first_appearance": "The Last of Us (2013)",
+    "powerLevel": 74,
+    "debut_year": 2013,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6bc"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000047"
+      },
+      {
+        "$oid": "6b1300000000000000000076"
+      },
+      {
+        "$oid": "6b1300000000000000000043"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000050"
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "name": "Master Yoda",
+    "alias": [],
+    "first_appearance": "Star Wars Episode V (1980)",
+    "powerLevel": 97,
+    "debut_year": 1980,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a2"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d5"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000053"
+      },
+      {
+        "$oid": "6b1300000000000000000031"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000017"
+      },
+      {
+        "$oid": "6b1400000000000000000005"
+      }
+    ]
+  },
+  {
+    "_id": 53,
+    "name": "Tony Stark (Zombie)",
+    "alias": [],
+    "first_appearance": "What If...? S01E05 (2021)",
+    "powerLevel": 65,
+    "debut_year": 2021,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c8"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000002"
+      },
+      {
+        "$oid": "6b1300000000000000000042"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000060"
+      }
+    ]
+  },
+  {
+    "_id": 55,
+    "name": "Mega Man",
+    "alias": [],
+    "first_appearance": "Mega Man (1987)",
+    "powerLevel": 80,
+    "debut_year": 1987,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6be"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6db"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000058"
+      },
+      {
+        "$oid": "6b1300000000000000000002"
+      }
+    ],
+    "movie_ids": []
+  },
+  {
+    "_id": 56,
+    "name": "John Wick",
+    "alias": [],
+    "first_appearance": "John Wick (2014)",
+    "powerLevel": 88,
+    "debut_year": 2014,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6bd"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000036"
+      },
+      {
+        "$oid": "6b1300000000000000000023"
+      },
+      {
+        "$oid": "6b1300000000000000000091"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000023"
+      },
+      {
+        "$oid": "6b1400000000000000000024"
+      }
+    ]
+  },
+  {
+    "_id": 57,
+    "name": "Saitama",
+    "alias": [],
+    "first_appearance": "One Punch Man Webcomic (2012)",
+    "powerLevel": 85,
+    "debut_year": 2012,
+    "universe_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b9"
+    },
+    "species_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "equipment_ids": [
+      {
+        "$oid": "6b1300000000000000000028"
+      },
+      {
+        "$oid": "6b1300000000000000000013"
+      }
+    ],
+    "movie_ids": [
+      {
+        "$oid": "6b1400000000000000000030"
+      }
+    ]
+  }
+]

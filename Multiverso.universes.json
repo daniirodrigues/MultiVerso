@@ -1,0 +1,242 @@
+[
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ba"
+    },
+    "name": "Assassin's Creed",
+    "type": "Games",
+    "origin": "Canadá"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b2"
+    },
+    "name": "Avatar: The Last Airbender",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a1"
+    },
+    "name": "DC Comics",
+    "type": "HQs",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a8"
+    },
+    "name": "Dragon Ball",
+    "type": "Animes",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b1"
+    },
+    "name": "Final Fantasy VII",
+    "type": "Games",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6aa"
+    },
+    "name": "God Of War",
+    "type": "Games",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a5"
+    },
+    "name": "Halo",
+    "type": "Games",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6bb"
+    },
+    "name": "Horizon",
+    "type": "Games",
+    "origin": "Países Baixos"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6bd"
+    },
+    "name": "John Wick Universe",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a0"
+    },
+    "name": "Marvel",
+    "type": "HQs",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b5"
+    },
+    "name": "Matrix",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6be"
+    },
+    "name": "Mega Man",
+    "type": "Games",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a3"
+    },
+    "name": "Middle-Earth",
+    "type": "Filmes",
+    "origin": "Reino Unido"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b6"
+    },
+    "name": "Naruto",
+    "type": "Animes",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b7"
+    },
+    "name": "One Piece",
+    "type": "Animes",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b9"
+    },
+    "name": "One Punch Man",
+    "type": "Animes",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b8"
+    },
+    "name": "Pokémon",
+    "type": "Games",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ae"
+    },
+    "name": "Rick And Morty",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b4"
+    },
+    "name": "Shrek",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ac"
+    },
+    "name": "Sonic The Hedgehog",
+    "type": "Games",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a2"
+    },
+    "name": "Star Wars",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6af"
+    },
+    "name": "Stranger Things",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ab"
+    },
+    "name": "Super Mario",
+    "type": "Games",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6bc"
+    },
+    "name": "The Last of Us",
+    "type": "Games",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a9"
+    },
+    "name": "The Legend Of Zelda",
+    "type": "Games",
+    "origin": "Japão"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6b0"
+    },
+    "name": "The Simpsons",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a7"
+    },
+    "name": "The Witcher",
+    "type": "Games",
+    "origin": "Polônia"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a6"
+    },
+    "name": "Tomb Raider",
+    "type": "Games",
+    "origin": "Reino Unido"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6ad"
+    },
+    "name": "Transformers",
+    "type": "Filmes",
+    "origin": "EUA"
+  },
+  {
+    "_id": {
+      "$oid": "6a14ef942fc8f20bb965f6a4"
+    },
+    "name": "Wizarding World",
+    "type": "Filmes",
+    "origin": "Reino Unido"
+  }
+]

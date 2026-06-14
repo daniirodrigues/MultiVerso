@@ -1,0 +1,170 @@
+[
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6da"
+    },
+    "name": "AI Program",
+    "descricao": "Programa de inteligência artificial dentro da Matrix"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d0"
+    },
+    "name": "Amazon Demigoddess",
+    "descricao": "Guerreira amazona com poder semidivino"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6db"
+    },
+    "name": "Android",
+    "descricao": "Robô com forma humana criado para combate"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d8"
+    },
+    "name": "Autobot",
+    "descricao": "Robô alienígena transformável aliado aos humanos"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d9"
+    },
+    "name": "Decepticon",
+    "descricao": "Robô alienígena transformável inimigo dos Autobots"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6ce"
+    },
+    "name": "Demigod",
+    "descricao": "Ser com sangue divino, entre mortal e deus"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6dd"
+    },
+    "name": "Donkey",
+    "descricao": "Animal falante com personalidade exuberante"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d7"
+    },
+    "name": "Electric Mouse",
+    "descricao": "Pokémon do tipo elétrico com habilidades de gerar eletricidade"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d6"
+    },
+    "name": "Hedgehog",
+    "descricao": "Ouriço antropomórfico com velocidade supersônica"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c0"
+    },
+    "name": "Human",
+    "descricao": "Ser humano comum, sem poderes inatos"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c3"
+    },
+    "name": "Human (Air Nomad)",
+    "descricao": "Humano com habilidade de controlar o ar"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c5"
+    },
+    "name": "Human (Cartoon)",
+    "descricao": "Humano de universo animado com física não convencional"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c1"
+    },
+    "name": "Human (Cyborg)",
+    "descricao": "Humano com partes mecânicas integradas ao corpo"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c4"
+    },
+    "name": "Human (Italian Plumber)",
+    "descricao": "Humano comum com habilidades atléticas excepcionais"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c2"
+    },
+    "name": "Human (The One)",
+    "descricao": "Humano com controle absoluto sobre a realidade simulada"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cd"
+    },
+    "name": "Hylian",
+    "descricao": "Raça élfica do reino de Hyrule com conexão ao Triforce"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cc"
+    },
+    "name": "Maia (Spirit)",
+    "descricao": "Ser espiritual de ordem superior do universo de Tolkien"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c9"
+    },
+    "name": "Mutant (Human)",
+    "descricao": "Humano geneticamente alterado com habilidades superiores"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6dc"
+    },
+    "name": "Ogre",
+    "descricao": "Criatura mítica grande e forte que vive em pântanos"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6cb"
+    },
+    "name": "Saiyan",
+    "descricao": "Raça alienígena guerreira com força que cresce após batalhas"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d2"
+    },
+    "name": "Titan (Eternal)",
+    "descricao": "Raça cósmica de seres eternos com força descomunal"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6c8"
+    },
+    "name": "Undead Human",
+    "descricao": "Humano reanimado, sem funções vitais normais"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d4"
+    },
+    "name": "Unknown (Yoda Species)",
+    "descricao": "Espécie desconhecida com forte conexão à Força"
+  },
+  {
+    "_id": {
+      "$oid": "6a14f0932fc8f20bb965f6d5"
+    },
+    "name": "Yoda Species",
+    "descricao": "Espécie desconhecida com grande longevidade e domínio da Força"
+  }
+]

@@ -1,0 +1,988 @@
+[
+  {
+    "_id": 1,
+    "name": "Tony Stark",
+    "alias": [
+      "Ironman",
+      "Iron Man"
+    ],
+    "universe": "Marvel",
+    "first_appearance": "Tales of Suspense #39",
+    "powerLevel": 95,
+    "equipment": [
+      "Armor",
+      "AI Assistant",
+      "Money"
+    ],
+    "species": "Human",
+    "movies": [
+      "Iron Man",
+      "Iron Man 2",
+      "Avengers",
+      "Avengers: Endgame"
+    ],
+    "debut_year": 1963
+  },
+  {
+    "_id": 2,
+    "name": "Darth Vader",
+    "alias": [],
+    "universe": "Star Wars",
+    "first_appearance": "Star wars episode iv",
+    "powerLevel": 88,
+    "equipment": [
+      "Lightsaber",
+      "Armor",
+      "Force"
+    ],
+    "species": "Human (Cyborg)",
+    "movies": [
+      "A New Hope",
+      "Empire Strikes Back",
+      "Return of the Jedi"
+    ],
+    "debut_year": 1977
+  },
+  {
+    "_id": 3,
+    "name": "Harry Potter",
+    "alias": [],
+    "universe": "Wizarding World",
+    "first_appearance": "Harry Potter and the Philosopher's Stone (1997)",
+    "powerLevel": 75,
+    "equipment": [
+      "Wand",
+      "Cloak",
+      "Owl"
+    ],
+    "species": "Human",
+    "movies": [
+      "Sorcerer's Stone",
+      "Chamber of Secrets",
+      "Prisoner of Azkaban"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "_id": 4,
+    "name": "Peter Parker",
+    "alias": [
+      "Spider-man",
+      "Spiderman"
+    ],
+    "universe": "Marvel",
+    "first_appearance": "Amazing Fantasy #15 (1962)",
+    "powerLevel": 89,
+    "equipment": [
+      "Web Shooters",
+      "Costume"
+    ],
+    "species": "Human",
+    "movies": [],
+    "debut_year": 1962
+  },
+  {
+    "_id": 5,
+    "name": "Master Chief",
+    "alias": [],
+    "universe": "Halo",
+    "first_appearance": "Halo: Combat Evolved (2001)",
+    "powerLevel": 100,
+    "equipment": [
+      "Mjolnir Armor",
+      "Assault Rifle"
+    ],
+    "species": "Human",
+    "movies": [
+      "Halo: Nightfall"
+    ],
+    "debut_year": 2001
+  },
+  {
+    "_id": 6,
+    "name": "Gandalf The Grey",
+    "alias": [],
+    "universe": "Middle-Earth",
+    "first_appearance": "The Hobbit (1937)",
+    "powerLevel": 93,
+    "equipment": [
+      "Staff",
+      "Sword",
+      "Horse"
+    ],
+    "species": "Maia (Spirit)",
+    "movies": [
+      "The Fellowship of the Ring",
+      "The Two Towers",
+      "The Return of the King"
+    ],
+    "debut_year": 1954
+  },
+  {
+    "_id": 7,
+    "name": "Batman",
+    "alias": [],
+    "universe": "DC Comics",
+    "first_appearance": "Detective Comics #27 (1939)",
+    "powerLevel": 85,
+    "equipment": [
+      "Batsuit",
+      "Batmobile",
+      "Money"
+    ],
+    "species": "Human",
+    "movies": [
+      "The Dark Knight",
+      "Batman Begins",
+      "The Batman"
+    ],
+    "debut_year": 1939
+  },
+  {
+    "_id": 8,
+    "name": "Lara Croft",
+    "alias": [],
+    "universe": "Tomb Raider",
+    "first_appearance": "Tomb Raider (1996)",
+    "powerLevel": 72,
+    "equipment": [
+      "Pistols",
+      "Grappling Hook",
+      "Wit"
+    ],
+    "species": "Human",
+    "movies": [
+      "Tomb Raider (2001)",
+      "Tomb Raider"
+    ],
+    "debut_year": 1996
+  },
+  {
+    "_id": 9,
+    "name": "Geralt Of Rivia",
+    "alias": [],
+    "universe": "The Witcher",
+    "first_appearance": "The Witcher (1993)",
+    "powerLevel": 90,
+    "equipment": [
+      "Silver Sword",
+      "Steel Sword",
+      "Potions",
+      "Signs"
+    ],
+    "species": "Mutant (Human)",
+    "movies": [],
+    "debut_year": 2007
+  },
+  {
+    "_id": 10,
+    "name": "Son Goku",
+    "alias": [],
+    "universe": "Dragon Ball",
+    "first_appearance": "Dragon Ball (manga) 1984",
+    "powerLevel": 97,
+    "equipment": [
+      "Power Pole",
+      "Nimbus"
+    ],
+    "species": "Saiyan",
+    "movies": [
+      "Dragon Ball Super: Broly"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "_id": 11,
+    "name": "Vegeta",
+    "alias": [],
+    "universe": "Dragon Ball",
+    "first_appearance": "Dragon Ball Chapter 204 (1988)",
+    "powerLevel": 96,
+    "equipment": [
+      "Armor",
+      "Scouter"
+    ],
+    "species": "Saiyan",
+    "movies": [
+      "Resurrection F",
+      "Dragon Ball Super: Broly"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "_id": 12,
+    "name": "Link",
+    "alias": [],
+    "universe": "The Legend Of Zelda",
+    "first_appearance": "The Legend of Zelda (1986)",
+    "powerLevel": 80,
+    "equipment": [
+      "Master Sword",
+      "Shield",
+      "Ocarina"
+    ],
+    "species": "Hylian",
+    "movies": [],
+    "debut_year": 1986
+  },
+  {
+    "_id": 13,
+    "name": "Princess Zelda",
+    "alias": [],
+    "universe": "The Legend Of Zelda",
+    "first_appearance": "The Legend of Zelda (1986)",
+    "powerLevel": 78,
+    "equipment": [
+      "Wisdom",
+      "Magic",
+      "Bow"
+    ],
+    "species": "Hylian",
+    "movies": [],
+    "debut_year": 1986
+  },
+  {
+    "_id": 14,
+    "name": "Kratos",
+    "alias": [],
+    "universe": "God Of War",
+    "first_appearance": "God of War (2005)",
+    "powerLevel": 98,
+    "equipment": [
+      "Blades of Chaos",
+      "Leviathan Axe",
+      "Rage"
+    ],
+    "species": "Demigod",
+    "movies": [],
+    "debut_year": 2005
+  },
+  {
+    "_id": 15,
+    "name": "Mario",
+    "alias": [],
+    "universe": "Super Mario",
+    "first_appearance": "Donkey Kong (1981)",
+    "powerLevel": 70,
+    "equipment": [
+      "Hat",
+      "Moustache",
+      "Jump"
+    ],
+    "species": "Human (Italian Plumber)",
+    "movies": [
+      "Super Mario Bros",
+      "Super Mario Bros Movie"
+    ],
+    "debut_year": 1985
+  },
+  {
+    "_id": 16,
+    "name": "Luigi",
+    "alias": [],
+    "universe": "Super Mario",
+    "first_appearance": "Mario Bros (1983)",
+    "powerLevel": 65,
+    "equipment": [
+      "Vacuum",
+      "Courage"
+    ],
+    "species": "Human",
+    "movies": [
+      "Super Mario Bros Movie"
+    ],
+    "debut_year": 1985
+  },
+  {
+    "_id": 17,
+    "name": "Sonic The Hedgehog",
+    "alias": [],
+    "universe": "Sonic The Hedgehog",
+    "first_appearance": "Sonic the Hedgehog (1991)",
+    "powerLevel": 82,
+    "equipment": [
+      "Speed",
+      "Rings"
+    ],
+    "species": "Hedgehog",
+    "movies": [
+      "Sonic the Hedgehog",
+      "Sonic the Hedgehog 2"
+    ],
+    "debut_year": 1991
+  },
+  {
+    "_id": 18,
+    "name": "Thanos",
+    "alias": [],
+    "universe": "Marvel",
+    "first_appearance": "Invincible Iron Man #55 (1973)",
+    "powerLevel": 99,
+    "equipment": [
+      "Infinity Gauntlet",
+      "Armor"
+    ],
+    "species": "Titan (Eternal)",
+    "movies": [
+      "Infinity War",
+      "Avengers: Endgame"
+    ],
+    "debut_year": 1973
+  },
+  {
+    "_id": 19,
+    "name": "Grogu",
+    "alias": [],
+    "universe": "Star Wars",
+    "first_appearance": "The Mandalorian S01E01 (2019)",
+    "powerLevel": 50,
+    "equipment": [
+      "Force",
+      "Cuteness"
+    ],
+    "species": "Unknown (Yoda Species)",
+    "movies": [
+      "The Mandalorian"
+    ],
+    "debut_year": 2019
+  },
+  {
+    "_id": 20,
+    "name": "Leia Organa",
+    "alias": [],
+    "universe": "Star Wars",
+    "first_appearance": "Star Wars Episode IV (1977)",
+    "powerLevel": 68,
+    "equipment": [
+      "Blaster",
+      "Leadership"
+    ],
+    "species": "Human",
+    "movies": [
+      "A New Hope",
+      "Return of the Jedi"
+    ],
+    "debut_year": 1977
+  },
+  {
+    "_id": 21,
+    "name": "Naruto Uzumaki",
+    "alias": [],
+    "universe": "Naruto",
+    "first_appearance": "Naruto Chapter 1 (1999)",
+    "powerLevel": 92,
+    "equipment": [
+      "Chakra",
+      "Kunai",
+      "Rasengan"
+    ],
+    "species": "Human",
+    "movies": [
+      "The Last: Naruto the Movie"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "_id": 22,
+    "name": "Sasuke Uchiha",
+    "alias": [],
+    "universe": "Naruto",
+    "first_appearance": "Naruto Chapter 3 (1999)",
+    "powerLevel": 91,
+    "equipment": [
+      "Sharingan",
+      "Sword"
+    ],
+    "species": "Human",
+    "movies": [
+      "Boruto: Naruto the Movie"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "_id": 23,
+    "name": "Luffy",
+    "alias": [],
+    "universe": "One Piece",
+    "first_appearance": "One Piece Chapter 1 (1997)",
+    "powerLevel": 94,
+    "equipment": [
+      "Straw Hat",
+      "Devil Fruit Powers"
+    ],
+    "species": "Human",
+    "movies": [
+      "One Piece: Red"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "_id": 24,
+    "name": "Optimus Prime",
+    "alias": [],
+    "universe": "Transformers",
+    "first_appearance": "The Transformers #1 (1984)",
+    "powerLevel": 88,
+    "equipment": [
+      "Energon Sword",
+      "Blaster"
+    ],
+    "species": "Autobot",
+    "movies": [
+      "Transformers",
+      "Rise of the Beasts"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "_id": 25,
+    "name": "Megatron",
+    "alias": [],
+    "universe": "Transformers",
+    "first_appearance": "The Transformers #1 (1984)",
+    "powerLevel": 86,
+    "equipment": [
+      "Fusion Cannon",
+      "Evil Plans"
+    ],
+    "species": "Decepticon",
+    "movies": [
+      "Transformers",
+      "Dark of the Moon"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "_id": 26,
+    "name": "Rick Sanchez",
+    "alias": [],
+    "universe": "Rick And Morty",
+    "first_appearance": "Rick and Morty S01E01 (2013)",
+    "powerLevel": 99,
+    "equipment": [
+      "Portal Gun",
+      "Sarcasm"
+    ],
+    "species": "Human",
+    "movies": [],
+    "debut_year": 2013
+  },
+  {
+    "_id": 27,
+    "name": "Morty Smith",
+    "alias": [],
+    "universe": "Rick And Morty",
+    "first_appearance": "Rick and Morty S01E01 (2013)",
+    "powerLevel": 55,
+    "equipment": [
+      "Nervousness",
+      "Grandpa"
+    ],
+    "species": "Human",
+    "movies": [
+      "Rick And Morty"
+    ],
+    "debut_year": 2013
+  },
+  {
+    "_id": 28,
+    "name": "Eleven",
+    "alias": [],
+    "universe": "Stranger Things",
+    "first_appearance": "Stranger Things S01E01 (2016)",
+    "powerLevel": 83,
+    "equipment": [
+      "Telekinesis",
+      "Eggos"
+    ],
+    "species": "Human",
+    "movies": [
+      "Stranger Things"
+    ],
+    "debut_year": 2016
+  },
+  {
+    "_id": 29,
+    "name": "Homer Simpson",
+    "alias": [],
+    "universe": "The Simpsons",
+    "first_appearance": "The Simpsons S01E01 (1989)",
+    "powerLevel": 40,
+    "equipment": [
+      "Donuts",
+      "Beer"
+    ],
+    "species": "Human (Cartoon)",
+    "movies": [
+      "The Simpsons Movie"
+    ],
+    "debut_year": 1989
+  },
+  {
+    "_id": 30,
+    "name": "Spider-Gwen",
+    "alias": [],
+    "universe": "Marvel",
+    "first_appearance": "Edge of Spider-Verse #2 (2014)",
+    "powerLevel": 84,
+    "equipment": [
+      "Spider Powers",
+      "Hoodie"
+    ],
+    "species": "Human",
+    "movies": [
+      "Spider-Man: Across the Spider-Verse"
+    ],
+    "debut_year": 2014
+  },
+  {
+    "_id": 31,
+    "name": "Pikachu",
+    "alias": [],
+    "universe": "Pokémon",
+    "first_appearance": "Pokémon Red/Blue (1996)",
+    "powerLevel": 75,
+    "equipment": [
+      "Thunderbolt",
+      "Cuteness"
+    ],
+    "species": "Electric Mouse",
+    "movies": [
+      "Detective Pikachu"
+    ],
+    "debut_year": 1996
+  },
+  {
+    "_id": 32,
+    "name": "Cloud Strife",
+    "alias": [],
+    "universe": "Final Fantasy VII",
+    "first_appearance": "Final Fantasy VII (1997)",
+    "powerLevel": 87,
+    "equipment": [
+      "Buster Sword"
+    ],
+    "species": "Human",
+    "movies": [
+      "Advent Children"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "_id": 33,
+    "name": "Sephiroth",
+    "alias": [],
+    "universe": "Final Fantasy VII",
+    "first_appearance": "Final Fantasy VII (1997)",
+    "powerLevel": 92,
+    "equipment": [
+      "Masamune Sword",
+      "One Wing"
+    ],
+    "species": "Human",
+    "movies": [
+      "Advent Children"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "_id": 34,
+    "name": "Aang",
+    "alias": [],
+    "universe": "Avatar: The Last Airbender",
+    "first_appearance": "Avatar: The Last Airbender S01E01 (2005)",
+    "powerLevel": 90,
+    "equipment": [
+      "Staff",
+      "Glider"
+    ],
+    "species": "Human (Air Nomad)",
+    "movies": [
+      "The Last Airbender"
+    ],
+    "debut_year": 2005
+  },
+  {
+    "_id": 35,
+    "name": "Katara",
+    "alias": [],
+    "universe": "Avatar: The Last Airbender",
+    "first_appearance": "Avatar: The Last Airbender S01E01 (2005)",
+    "powerLevel": 85,
+    "equipment": [
+      "Waterbending"
+    ],
+    "species": "Human",
+    "movies": [
+      "Animated Series"
+    ],
+    "debut_year": 2005
+  },
+  {
+    "_id": 36,
+    "name": "Sokka",
+    "alias": [],
+    "universe": "Avatar: The Last Airbender",
+    "first_appearance": "Avatar: The Last Airbender S01E01 (2005)",
+    "powerLevel": 70,
+    "equipment": [
+      "Boomerang",
+      "Sarcasm"
+    ],
+    "species": "Human",
+    "movies": [],
+    "debut_year": 2005
+  },
+  {
+    "_id": 37,
+    "name": "Black Panther",
+    "alias": [],
+    "universe": "Marvel",
+    "first_appearance": "Fantastic Four #52 (1966)",
+    "powerLevel": 86,
+    "equipment": [
+      "Vibranium Suit",
+      "Claws"
+    ],
+    "species": "Human",
+    "movies": [
+      "Black Panther",
+      "Infinity War"
+    ],
+    "debut_year": 1966
+  },
+  {
+    "_id": 38,
+    "name": "Wonder Woman",
+    "alias": [],
+    "universe": "DC Comics",
+    "first_appearance": "All Star Comics #8 (1941)",
+    "powerLevel": 95,
+    "equipment": [
+      "Lasso of Truth",
+      "Sword",
+      "Shield"
+    ],
+    "species": "Amazon Demigoddess",
+    "movies": [
+      "Wonder Woman",
+      "Justice League"
+    ],
+    "debut_year": 1941
+  },
+  {
+    "_id": 39,
+    "name": "The Flash",
+    "alias": [],
+    "universe": "DC Comics",
+    "first_appearance": "Flash Comics #1 (1940)",
+    "powerLevel": 94,
+    "equipment": [
+      "Speedforce"
+    ],
+    "species": "Human",
+    "movies": [
+      "Justice League",
+      "The Flash"
+    ],
+    "debut_year": 1940
+  },
+  {
+    "_id": 40,
+    "name": "Shrek",
+    "alias": [],
+    "universe": "Shrek",
+    "first_appearance": "Shrek (2001)",
+    "powerLevel": 60,
+    "equipment": [
+      "Swamp",
+      "Onions"
+    ],
+    "species": "Ogre",
+    "movies": [
+      "Shrek",
+      "Shrek 2"
+    ],
+    "debut_year": 2001
+  },
+  {
+    "_id": 41,
+    "name": "Donkey",
+    "alias": [],
+    "universe": "Shrek",
+    "first_appearance": "Shrek (2001)",
+    "powerLevel": 45,
+    "equipment": [
+      "Humor"
+    ],
+    "species": "Donkey",
+    "movies": [
+      "Shrek",
+      "Shrek 2"
+    ],
+    "debut_year": 2001
+  },
+  {
+    "_id": 42,
+    "name": "Neo",
+    "alias": [],
+    "universe": "Matrix",
+    "first_appearance": "The Matrix (1999)",
+    "powerLevel": 100,
+    "equipment": [
+      "Kung Fu",
+      "Code Vision"
+    ],
+    "species": "Human (The One)",
+    "movies": [
+      "The Matrix",
+      "Matrix Reloaded",
+      "Matrix Revolutions"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "_id": 43,
+    "name": "Trinity",
+    "alias": [],
+    "universe": "Matrix",
+    "first_appearance": "The Matrix (1999)",
+    "powerLevel": 89,
+    "equipment": [
+      "Guns",
+      "Martial Arts"
+    ],
+    "species": "Human",
+    "movies": [
+      "The Matrix",
+      "Matrix Reloaded"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "_id": 44,
+    "name": "Agent Smith",
+    "alias": [],
+    "universe": "Matrix",
+    "first_appearance": "The Matrix (1999)",
+    "powerLevel": 90,
+    "equipment": [
+      "Virus Powers"
+    ],
+    "species": "AI Program",
+    "movies": [
+      "The Matrix"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "_id": 45,
+    "name": "Hermione Granger",
+    "alias": [],
+    "universe": "Wizarding World",
+    "first_appearance": "Harry Potter and the Philosopher's Stone (1997)",
+    "powerLevel": 90,
+    "equipment": [
+      "Wand",
+      "Intelligence"
+    ],
+    "species": "Human",
+    "movies": [
+      "Sorcerer's Stone",
+      "Deathly Hallows"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "_id": 46,
+    "name": "Sauron",
+    "alias": [],
+    "universe": "Middle-Earth",
+    "first_appearance": "The Lord of the Rings (1954)",
+    "powerLevel": 96,
+    "equipment": [
+      "One Ring",
+      "Darkness"
+    ],
+    "species": "Maia (Spirit)",
+    "movies": [
+      "The Fellowship of the Ring"
+    ],
+    "debut_year": 1954
+  },
+  {
+    "_id": 47,
+    "name": "Riri Williams",
+    "alias": [],
+    "universe": "Marvel",
+    "first_appearance": "Invincible Iron Man Vol.3 #7 (2016)",
+    "powerLevel": 88,
+    "equipment": [
+      "Armor",
+      "AI Assistant",
+      "Money"
+    ],
+    "species": "Human",
+    "movies": [
+      "Black Panther: Wakanda Forever"
+    ],
+    "debut_year": 2022
+  },
+  {
+    "_id": 48,
+    "name": "Ash Ketchum",
+    "alias": [],
+    "universe": "Pokémon",
+    "first_appearance": "Pokémon Red/Blue (1996)",
+    "powerLevel": 60,
+    "equipment": [
+      "Pokéballs",
+      "Backpack",
+      "Hat"
+    ],
+    "species": "Human",
+    "movies": [
+      "Mewtwo Strikes Back",
+      "I Choose You!"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "_id": 49,
+    "name": "Ezio Auditore",
+    "alias": [],
+    "universe": "Assassin's Creed",
+    "first_appearance": "Assassin's Creed II (2009)",
+    "powerLevel": 78,
+    "equipment": [
+      "Hidden Blades",
+      "Sword",
+      "Cape"
+    ],
+    "species": "Human",
+    "movies": [
+      "Assassin's Creed"
+    ],
+    "debut_year": 2009
+  },
+  {
+    "_id": 50,
+    "name": "Aloy",
+    "alias": [],
+    "universe": "Horizon",
+    "first_appearance": "Horizon Zero Dawn (2017)",
+    "powerLevel": 76,
+    "equipment": [
+      "Bow",
+      "Spear",
+      "Focus Device"
+    ],
+    "species": "Human",
+    "movies": [],
+    "debut_year": 2017
+  },
+  {
+    "_id": 51,
+    "name": "Ellie",
+    "alias": [],
+    "universe": "The Last of Us",
+    "first_appearance": "The Last of Us (2013)",
+    "powerLevel": 74,
+    "equipment": [
+      "Knife",
+      "Revolver",
+      "Immunity"
+    ],
+    "species": "Human",
+    "movies": [
+      "The Last of Us"
+    ],
+    "debut_year": 2013
+  },
+  {
+    "_id": 52,
+    "name": "Master Yoda",
+    "alias": [],
+    "universe": "Star Wars",
+    "first_appearance": "Star Wars Episode V (1980)",
+    "powerLevel": 97,
+    "equipment": [
+      "Lightsaber",
+      "Force Wisdom"
+    ],
+    "species": "Yoda Species",
+    "movies": [
+      "Empire Strikes Back",
+      "Attack of the Clones"
+    ],
+    "debut_year": 1980
+  },
+  {
+    "_id": 53,
+    "name": "Tony Stark (Zombie)",
+    "alias": [],
+    "universe": "Marvel",
+    "first_appearance": "What If...? S01E05 (2021)",
+    "powerLevel": 65,
+    "equipment": [
+      "Armor",
+      "Hunger"
+    ],
+    "species": "Undead Human",
+    "movies": [
+      "What If...?"
+    ],
+    "debut_year": 2021
+  },
+  {
+    "_id": 55,
+    "name": "Mega Man",
+    "alias": [],
+    "universe": "Mega Man",
+    "first_appearance": "Mega Man (1987)",
+    "powerLevel": 80,
+    "equipment": [
+      "Mega Buster",
+      "Armor"
+    ],
+    "species": "Android",
+    "movies": [],
+    "debut_year": 1987
+  },
+  {
+    "_id": 56,
+    "name": "John Wick",
+    "alias": [],
+    "universe": "John Wick Universe",
+    "first_appearance": "John Wick (2014)",
+    "powerLevel": 88,
+    "equipment": [
+      "Guns",
+      "Dog",
+      "Suit"
+    ],
+    "species": "Human",
+    "movies": [
+      "John Wick",
+      "John Wick 4"
+    ],
+    "debut_year": 2014
+  },
+  {
+    "_id": 57,
+    "name": "Saitama",
+    "alias": [],
+    "universe": "One Punch Man",
+    "first_appearance": "One Punch Man Webcomic (2012)",
+    "powerLevel": 85,
+    "equipment": [
+      "Fists",
+      "Cape"
+    ],
+    "species": "Human",
+    "movies": [
+      "One Punch Man"
+    ],
+    "debut_year": 2012
+  }
+]

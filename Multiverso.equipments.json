@@ -1,0 +1,1056 @@
+[
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000001"
+    },
+    "name": "AI Assistant",
+    "type": "Gadget",
+    "character_ids": [
+      1,
+      47
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000002"
+    },
+    "name": "Armor",
+    "type": "Armadura",
+    "character_ids": [
+      1,
+      2,
+      11,
+      18,
+      47,
+      53,
+      55
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000003"
+    },
+    "name": "Assault Rifle",
+    "type": "Arma",
+    "character_ids": [
+      5
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000004"
+    },
+    "name": "Backpack",
+    "type": "Gadget",
+    "character_ids": [
+      48
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000005"
+    },
+    "name": "Batmobile",
+    "type": "Veículo",
+    "character_ids": [
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000006"
+    },
+    "name": "Batsuit",
+    "type": "Armadura",
+    "character_ids": [
+      7
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000007"
+    },
+    "name": "Beer",
+    "type": "Artefato",
+    "character_ids": [
+      29
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000008"
+    },
+    "name": "Blades of Chaos",
+    "type": "Arma",
+    "character_ids": [
+      14
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000009"
+    },
+    "name": "Blaster",
+    "type": "Arma",
+    "character_ids": [
+      20,
+      24
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000010"
+    },
+    "name": "Boomerang",
+    "type": "Arma",
+    "character_ids": [
+      36
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000011"
+    },
+    "name": "Bow",
+    "type": "Arma",
+    "character_ids": [
+      13,
+      50
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000012"
+    },
+    "name": "Buster Sword",
+    "type": "Arma",
+    "character_ids": [
+      32
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000013"
+    },
+    "name": "Cape",
+    "type": "Artefato",
+    "character_ids": [
+      49,
+      57
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000014"
+    },
+    "name": "Chakra",
+    "type": "Poder",
+    "character_ids": [
+      21
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000015"
+    },
+    "name": "Claws",
+    "type": "Arma",
+    "character_ids": [
+      37
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000016"
+    },
+    "name": "Cloak",
+    "type": "Artefato",
+    "character_ids": [
+      3
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000017"
+    },
+    "name": "Code Vision",
+    "type": "Poder",
+    "character_ids": [
+      42
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000018"
+    },
+    "name": "Costume",
+    "type": "Armadura",
+    "character_ids": [
+      4
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000019"
+    },
+    "name": "Courage",
+    "type": "Artefato",
+    "character_ids": [
+      16
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000020"
+    },
+    "name": "Cuteness",
+    "type": "Artefato",
+    "character_ids": [
+      19,
+      31
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000021"
+    },
+    "name": "Darkness",
+    "type": "Poder",
+    "character_ids": [
+      46
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000022"
+    },
+    "name": "Devil Fruit Powers",
+    "type": "Poder",
+    "character_ids": [
+      23
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000023"
+    },
+    "name": "Dog",
+    "type": "Artefato",
+    "character_ids": [
+      56
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000024"
+    },
+    "name": "Donuts",
+    "type": "Artefato",
+    "character_ids": [
+      29
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000025"
+    },
+    "name": "Eggos",
+    "type": "Artefato",
+    "character_ids": [
+      28
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000026"
+    },
+    "name": "Energon Sword",
+    "type": "Arma",
+    "character_ids": [
+      24
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000027"
+    },
+    "name": "Evil Plans",
+    "type": "Artefato",
+    "character_ids": [
+      25
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000028"
+    },
+    "name": "Fists",
+    "type": "Arma",
+    "character_ids": [
+      57
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000029"
+    },
+    "name": "Focus Device",
+    "type": "Gadget",
+    "character_ids": [
+      50
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000030"
+    },
+    "name": "Force",
+    "type": "Poder",
+    "character_ids": [
+      2,
+      19
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000031"
+    },
+    "name": "Force Wisdom",
+    "type": "Poder",
+    "character_ids": [
+      52
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000032"
+    },
+    "name": "Fusion Cannon",
+    "type": "Arma",
+    "character_ids": [
+      25
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000033"
+    },
+    "name": "Glider",
+    "type": "Veículo",
+    "character_ids": [
+      34
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000034"
+    },
+    "name": "Grandpa",
+    "type": "Artefato",
+    "character_ids": [
+      27
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000035"
+    },
+    "name": "Grappling Hook",
+    "type": "Gadget",
+    "character_ids": [
+      8
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000036"
+    },
+    "name": "Guns",
+    "type": "Arma",
+    "character_ids": [
+      43,
+      56
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000037"
+    },
+    "name": "Hat",
+    "type": "Artefato",
+    "character_ids": [
+      15,
+      48
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000038"
+    },
+    "name": "Hidden Blades",
+    "type": "Arma",
+    "character_ids": [
+      49
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000039"
+    },
+    "name": "Hoodie",
+    "type": "Armadura",
+    "character_ids": [
+      30
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000040"
+    },
+    "name": "Horse",
+    "type": "Veículo",
+    "character_ids": [
+      6
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000041"
+    },
+    "name": "Humor",
+    "type": "Artefato",
+    "character_ids": [
+      41
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000042"
+    },
+    "name": "Hunger",
+    "type": "Artefato",
+    "character_ids": [
+      53
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000043"
+    },
+    "name": "Immunity",
+    "type": "Poder",
+    "character_ids": [
+      51
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000044"
+    },
+    "name": "Infinity Gauntlet",
+    "type": "Artefato",
+    "character_ids": [
+      18
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000045"
+    },
+    "name": "Intelligence",
+    "type": "Artefato",
+    "character_ids": [
+      45
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000046"
+    },
+    "name": "Jump",
+    "type": "Poder",
+    "character_ids": [
+      15
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000047"
+    },
+    "name": "Knife",
+    "type": "Arma",
+    "character_ids": [
+      51
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000048"
+    },
+    "name": "Kunai",
+    "type": "Arma",
+    "character_ids": [
+      21
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000049"
+    },
+    "name": "Kung Fu",
+    "type": "Poder",
+    "character_ids": [
+      42
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000050"
+    },
+    "name": "Lasso of Truth",
+    "type": "Artefato",
+    "character_ids": [
+      38
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000051"
+    },
+    "name": "Leadership",
+    "type": "Artefato",
+    "character_ids": [
+      20
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000052"
+    },
+    "name": "Leviathan Axe",
+    "type": "Arma",
+    "character_ids": [
+      14
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000053"
+    },
+    "name": "Lightsaber",
+    "type": "Arma",
+    "character_ids": [
+      2,
+      52
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000054"
+    },
+    "name": "Magic",
+    "type": "Poder",
+    "character_ids": [
+      13
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000055"
+    },
+    "name": "Martial Arts",
+    "type": "Poder",
+    "character_ids": [
+      43
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000056"
+    },
+    "name": "Masamune Sword",
+    "type": "Arma",
+    "character_ids": [
+      33
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000057"
+    },
+    "name": "Master Sword",
+    "type": "Arma",
+    "character_ids": [
+      12
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000058"
+    },
+    "name": "Mega Buster",
+    "type": "Arma",
+    "character_ids": [
+      55
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000059"
+    },
+    "name": "Mjolnir Armor",
+    "type": "Armadura",
+    "character_ids": [
+      5
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000060"
+    },
+    "name": "Money",
+    "type": "Artefato",
+    "character_ids": [
+      1,
+      7,
+      47
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000061"
+    },
+    "name": "Moustache",
+    "type": "Artefato",
+    "character_ids": [
+      15
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000062"
+    },
+    "name": "Nervousness",
+    "type": "Artefato",
+    "character_ids": [
+      27
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000063"
+    },
+    "name": "Nimbus",
+    "type": "Veículo",
+    "character_ids": [
+      10
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000064"
+    },
+    "name": "Ocarina",
+    "type": "Artefato",
+    "character_ids": [
+      12
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000065"
+    },
+    "name": "One Ring",
+    "type": "Artefato",
+    "character_ids": [
+      46
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000066"
+    },
+    "name": "One Wing",
+    "type": "Artefato",
+    "character_ids": [
+      33
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000067"
+    },
+    "name": "Onions",
+    "type": "Artefato",
+    "character_ids": [
+      40
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000068"
+    },
+    "name": "Owl",
+    "type": "Artefato",
+    "character_ids": [
+      3
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000069"
+    },
+    "name": "Pistols",
+    "type": "Arma",
+    "character_ids": [
+      8
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000070"
+    },
+    "name": "Pokéballs",
+    "type": "Gadget",
+    "character_ids": [
+      48
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000071"
+    },
+    "name": "Portal Gun",
+    "type": "Gadget",
+    "character_ids": [
+      26
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000072"
+    },
+    "name": "Potions",
+    "type": "Artefato",
+    "character_ids": [
+      9
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000073"
+    },
+    "name": "Power Pole",
+    "type": "Artefato",
+    "character_ids": [
+      10
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000074"
+    },
+    "name": "Rage",
+    "type": "Poder",
+    "character_ids": [
+      14
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000075"
+    },
+    "name": "Rasengan",
+    "type": "Poder",
+    "character_ids": [
+      21
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000076"
+    },
+    "name": "Revolver",
+    "type": "Arma",
+    "character_ids": [
+      51
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000077"
+    },
+    "name": "Rings",
+    "type": "Artefato",
+    "character_ids": [
+      17
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000078"
+    },
+    "name": "Sarcasm",
+    "type": "Artefato",
+    "character_ids": [
+      26,
+      36
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000079"
+    },
+    "name": "Scouter",
+    "type": "Gadget",
+    "character_ids": [
+      11
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000080"
+    },
+    "name": "Sharingan",
+    "type": "Poder",
+    "character_ids": [
+      22
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000081"
+    },
+    "name": "Shield",
+    "type": "Armadura",
+    "character_ids": [
+      12,
+      38
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000082"
+    },
+    "name": "Signs",
+    "type": "Poder",
+    "character_ids": [
+      9
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000083"
+    },
+    "name": "Silver Sword",
+    "type": "Arma",
+    "character_ids": [
+      9
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000084"
+    },
+    "name": "Spear",
+    "type": "Arma",
+    "character_ids": [
+      50
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000085"
+    },
+    "name": "Speed",
+    "type": "Poder",
+    "character_ids": [
+      17
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000086"
+    },
+    "name": "Speedforce",
+    "type": "Poder",
+    "character_ids": [
+      39
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000087"
+    },
+    "name": "Spider Powers",
+    "type": "Poder",
+    "character_ids": [
+      30
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000088"
+    },
+    "name": "Staff",
+    "type": "Arma",
+    "character_ids": [
+      6,
+      34
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000089"
+    },
+    "name": "Steel Sword",
+    "type": "Arma",
+    "character_ids": [
+      9
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000090"
+    },
+    "name": "Straw Hat",
+    "type": "Artefato",
+    "character_ids": [
+      23
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000091"
+    },
+    "name": "Suit",
+    "type": "Armadura",
+    "character_ids": [
+      56
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000092"
+    },
+    "name": "Swamp",
+    "type": "Artefato",
+    "character_ids": [
+      40
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000093"
+    },
+    "name": "Sword",
+    "type": "Arma",
+    "character_ids": [
+      6,
+      22,
+      38,
+      49
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000094"
+    },
+    "name": "Telekinesis",
+    "type": "Poder",
+    "character_ids": [
+      28
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000095"
+    },
+    "name": "Thunderbolt",
+    "type": "Poder",
+    "character_ids": [
+      31
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000096"
+    },
+    "name": "Vacuum",
+    "type": "Gadget",
+    "character_ids": [
+      16
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000097"
+    },
+    "name": "Vibranium Suit",
+    "type": "Armadura",
+    "character_ids": [
+      37
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000098"
+    },
+    "name": "Virus Powers",
+    "type": "Poder",
+    "character_ids": [
+      44
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000099"
+    },
+    "name": "Wand",
+    "type": "Artefato",
+    "character_ids": [
+      3,
+      45
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000100"
+    },
+    "name": "Waterbending",
+    "type": "Poder",
+    "character_ids": [
+      35
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000101"
+    },
+    "name": "Web Shooters",
+    "type": "Gadget",
+    "character_ids": [
+      4
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000102"
+    },
+    "name": "Wisdom",
+    "type": "Artefato",
+    "character_ids": [
+      13
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6b1300000000000000000103"
+    },
+    "name": "Wit",
+    "type": "Artefato",
+    "character_ids": [
+      8
+    ]
+  }
+]
